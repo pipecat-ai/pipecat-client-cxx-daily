@@ -4,6 +4,9 @@
 
 [![Docs](https://img.shields.io/badge/Documentation-blue)](https://docs.pipecat.ai) [![Discord](https://img.shields.io/discord/1239284677165056021)](https://discord.gg/pipecat)
 
+> [!IMPORTANT]
+> **This repository is archived.** The Daily transport is now part of the [Pipecat C++ Client SDK](https://github.com/pipecat-ai/pipecat-client-cxx), in [`transports/daily`](https://github.com/pipecat-ai/pipecat-client-cxx/tree/main/transports/daily). Please use it going forward; this repository is no longer maintained.
+
 # Daily Transport for Pipecat C++ Client SDK
 
 `pipecat-client-cxx-daily` is a C++ SDK to build native
